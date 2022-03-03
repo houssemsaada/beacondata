@@ -1,0 +1,7 @@
+1/  initilize 3 device points  ; coordinate 0,0
+2/  initilize array of 3 
+3/ fill the array D
+4/ create 3 circles : center = device points , r = distance calculated D[i]
+5/ while true : you should find intersection 
+    if no intersection , should increase the circle who has larger r
+    find intersection point between the circles
